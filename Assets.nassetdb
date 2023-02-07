@@ -1,0 +1,12 @@
+{
+    "98c6f8b3-bfc7-42d6-a9ce-596b60bce63b": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin"
+    },
+    "c81d8424-a65a-447f-b5c4-7633f18c38db": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Madball_Thumb.tex.nasset"
+    },
+    "guid": "83998066-4812-86d7-e361-1d7813eaff12"
+}

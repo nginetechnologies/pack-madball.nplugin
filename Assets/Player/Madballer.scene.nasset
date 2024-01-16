@@ -50,10 +50,10 @@
             "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
                 "jumpHeight": 3.0,
-                "walkingSpeed": 20.0,
-                "runningSpeed": 40.0,
-                "walkingTurnSpeed": 5.0,
-                "runningTurnSpeed": 6.5,
+                "walkingSpeed": 100.0,
+                "runningSpeed": 300.0,
+                "walkingTurnSpeed": 35.0,
+                "runningTurnSpeed": 70.0,
                 "flags": 3
             },
             "data_components": [

@@ -52,7 +52,7 @@
     "4d695610-22ae-45c3-9d8e-c8c95e253656": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Player/Player.scene.nasset",
+        "path": "Assets/Player/Madballer.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
         "dependencies": [
             "f616fd83-c04d-5046-ec4f-337246821c42",

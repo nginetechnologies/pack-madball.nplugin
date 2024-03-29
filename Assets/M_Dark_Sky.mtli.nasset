@@ -1,13 +1,1 @@
-{
-    "guid": "469a1426-9637-417e-9ac9-3cae924cc8ed",
-    "material": "d3b37153-2dce-4574-a8f1-f118df0e8e30",
-    "push_constants": [
-        {
-            "type": 0,
-            "color": "#1F3B4D"
-        }
-    ],
-    "thumbnailGuid": "1e71738a-10e5-7160-578f-434ede5c7576",
-    "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-    "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f"
-}
+{"guid":"469a1426-9637-417e-9ac9-3cae924cc8ed","material":"d3b37153-2dce-4574-a8f1-f118df0e8e30","push_constants":[{"type":0,"color":"#1F3B4D"}],"thumbnailGuid":"406088c0-e20f-651f-399c-b51e03131764","typeGuid":"ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f","assetTypeGuid":"ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f"}
